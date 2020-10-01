@@ -1,4 +1,1 @@
-ShkirRepositry
-==============
-
-This is my github account
+Convert your name shakir to Shakir
